@@ -10,7 +10,7 @@
 This repository contains the machine learning pipeline used in the study:
 
 > **"Machine Learning-Based Drug Repositioning of Novel Human Aromatase Inhibitors Utilizing Molecular Docking and Molecular Dynamic Simulation"**  
-> Published on [ResearchGate](https://www.researchgate.net/publication/385679441_Machine_Learning-Based_Drug_Repositioning_of_Novel_Human_Aromatase_Inhibitors_Utilizing_Molecular_Docking_and_Molecular_Dynamic_Simulation)
+> Published on [Journal of Computational Biophysics and Chemistry](https://www.worldscientific.com/doi/10.1142/S2737416524410035)
 
 ---
 
@@ -89,37 +89,6 @@ Top-ranked candidates with pIC50 > 8.8 were exported to `results/filtered.csv` f
 
 ---
 
-## Installation
-
-```bash
-git clone https://github.com/YOUR_USERNAME/aromatase-ml-repo.git
-cd aromatase-ml-repo
-pip install -r requirements.txt
-```
-
-> RDKit is best installed via conda:
-> ```bash
-> conda install -c conda-forge rdkit
-> ```
-
----
-
-## Usage
-
-Open and run the notebook:
-
-```bash
-jupyter notebook notebooks/Aromatase.ipynb
-```
-
-Ensure the required data files are placed in the `data/` directory before running.
-
----
-
-## Dependencies
-
-See [`requirements.txt`](requirements.txt) for the full list.
-
 ---
 
 ## Citation
@@ -127,7 +96,7 @@ See [`requirements.txt`](requirements.txt) for the full list.
 If you use this code in your research, please cite:
 
 ```
-[Full citation available at the ResearchGate link above]
+[Full citation available at the publication link above]
 ```
 
 ---
