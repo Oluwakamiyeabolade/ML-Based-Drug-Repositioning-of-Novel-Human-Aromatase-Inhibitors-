@@ -8,7 +8,7 @@
 This repository contains the machine learning pipeline used in the study:
 
 > **"Machine Learning-Based Drug Repositioning of Novel Human Aromatase Inhibitors Utilizing Molecular Docking and Molecular Dynamic Simulation"**  
-> Published on [Journal of Computational Biophysics and Chemistry](https://www.worldscientific.com/doi/10.1142/S2737416524410035)
+> Published in [Journal of Computational Biophysics and Chemistry](https://www.worldscientific.com/doi/10.1142/S2737416524410035)
 
 ---
 
@@ -36,8 +36,6 @@ aromatase-ml-repo/
 │   └── chembl_22_clean_1576904_sorted_std_final.smi  # ChEMBL small molecule library (~1.5M compounds)
 ├── results/
 │   └── filtered.csv            # Top predicted aromatase inhibitor candidates (pIC50 > 8.8)
-├── requirements.txt
-├── LICENSE
 └── README.md
 ```
 
