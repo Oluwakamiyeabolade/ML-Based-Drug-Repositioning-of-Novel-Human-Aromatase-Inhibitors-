@@ -1,11 +1,9 @@
-# ML-Based-Drug-Repositioning-of-Novel-Human-Aromatase-Inhibitors-
 
 # Machine Learning-Based Drug Repositioning of Novel Human Aromatase Inhibitors
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![RDKit](https://img.shields.io/badge/RDKit-2023-green)](https://www.rdkit.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-orange)](https://scikit-learn.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 This repository contains the machine learning pipeline used in the study:
 
